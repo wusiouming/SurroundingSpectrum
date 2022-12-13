@@ -4,6 +4,10 @@
             "樂群村",
             "Liqun Village"
         ],
+        "info": [
+            "樂群村是岡山最早的眷村之一，興建於1930年代，日本人為了安置海軍航空隊飛行員及高級軍職人員而建。戰後成為岡山空軍官校高級將官的宿舍，屋舍每戶多為一百坪左右，日式宿舍及庭院綠地各佔約一半，是相當典型的高級日式建築。早年，這些建築在外人的眼裡就顯得相當豪華且氣派，並且也象徵了一定的階級與身份。這幾年附近的眷村都已經拆除了，樂群村的住戶也抱著不捨的心情一一離開。",
+            "Lequn Village is one of the earliest military dependent villages in Gangshan. It was built in the 1930s by the Japanese to accommodate pilots and senior military personnel of the Naval Air army. After the world war two, it became the dormitory for senior generals of the Gangshan Air Force Academy. Each house is about 100 ping, and the J dormitory and garden green space each account for about half. It is quite a typical high-end Japanese-style building. In the early years, these buildings looked quite luxurious and magnificent in the eyes of outsiders, and also symbolized a certain class and identity. In the past few years, the nearby military dependents' villages have been demolished, and the residents also left one by one with a feeling of reluctance."
+        ],
         "image": [
             "Liqun",
             0,
@@ -15,6 +19,10 @@
             "華陰街",
             "Yuayin St."
         ],
+        "info": [
+            "華陰街商圈以前稱為”後火車頭”，是早期時候曾經紅極一時的百貨集散地，從飾品、服飾、美妝、日用品、進口零食、配件等等都找得到。在上個世紀的60、70年代，可以說中南部的年輕人前往台北築夢的起點，懷抱著憧憬來到台北追逐各種夢想，他們其中的許多人，會先選擇到這一帶的旅館落腳。但因為時代的變遷，商圈逐漸沒落。現在這些便宜、老舊的旅館，已經變成是許多外籍移工、新住民來到台北會落腳的地方，其中可見時代與族群的變化。",
+            "The Huayin Street business district was formerly known as \"The Back Locomotive\". It was once a smash hit department store distribution center in the early days. You can find everything from accessories, clothing, beauty makeup, daily necessities, imported snacks, and accessories. In the 1960s and 1970s, it can be said that the young people in the central and southern regions went to Taipei to build their dreams. They came to Taipei with longings to pursue various dreams. Many of them would first choose to stay in hotels in this area. However, due to the changes of the times, the business district has gradually declined. Now these cheap and old hotels have become places where many foreign migrant workers and new residents come to Taipei to stay, which shows the changes of the times and ethnic groups."
+        ],
         "image": [
             "Yuayin",
             1,
@@ -23,8 +31,12 @@
     },
     {
         "name": [
-            "新富町文化市場",
-            "Xinfu Market"
+            "萬華區",
+            "Wanhua Dist."
+        ],
+        "info": [
+            "萬華，舊稱「艋舺」，位於臺北市西南側，是台北市較早發展的區域，有許多老舊社區及古蹟，同時也是台北市供應新鮮食材的果菜、肉類運銷中心。位於西邊、剝皮寮旁的的東三水街市場的歷史悠久，更是當地人每天都會造訪的地方，市場內的蔬菜、水果和肉類皆一應俱全且極為新鮮，也包含各式生活用品及服飾類，可以說是非常繽紛的一座市場。",
+            "Wanhua, formerly known as \"Mangka\", is located in the southwest of Taipei City. It is an area that developed earlier in Taipei City. There are many old communities and historical sites. It is also a fruit, vegetable, and meat distribution center that supplies fresh ingredients in Taipei City. The East Sanshui Street Market, located on the west side and next to Bopiliao, has a long history and is a place visited by locals every day. The vegetables, fruits and meat in the market are all available and extremely fresh, as well as various daily necessities It can be said that it is a very colorful market."
         ],
         "image": [
             "Wanhua",
@@ -37,6 +49,10 @@
             "鹽水區",
             "Yanshuei Dist."
         ],
+        "info": [
+            "鹽水為臺灣南部最古老區鎮之一，於西元1662年在今舊營里和後宅里一帶由鄭成功部將開始墾殖，漸成聚落，因倒風內海形成天然內港，內海裡的港口扮演貿易的重要角色，鹽水港即為著名的港口之一，與安平、鹿港並列南台灣水路交通要地，即為今日的月津港一帶。",
+            "Yanshui is one of the oldest towns in southern Taiwan. It was cultivated by Zheng Chenggong in 1662 in the area of Jinjiuyingli and Houzhaili, and gradually became a settlement. Due to the windward inland sea, a natural inner harbor is formed. The harbor in the inner sea Playing an important role in trade, Yanshui Port is one of the famous ports. Along with Anping and Lukang, it is an important waterway transportation point in southern Taiwan. And It is Yuejin Port area today."
+        ],
         "image": [
             "Yanshuei",
             1,
@@ -48,10 +64,89 @@
             "西螺鎮",
             "Xiluo Township"
         ],
+        "info": [
+            "時至今日，西螺老街上的房子依然維持著一派典雅的美感，儘管平日的街上空蕩蕩的，居民大都已經遷走，透露了人口外流嚴重的問題。夜晚空蕩蕩的街道上，從某一戶人家裡傳出鋼琴的聲音，是鋼琴初學者練琴時常演奏的曲子。這些聲音在夜晚的街道上迴響著，不曉得傳達給誰，顯得格外的寂寞。",
+            "Today, the houses on Xiluo Old Street still maintain an elegant aesthetic. Although the streets are empty on weekdays, most of the residents have moved out, revealing the serious problem of population outflow. On the empty street at night, the sound of a piano can be heard from one of a certain house. It is a piece often played by piano beginners when they practice. These voices echoed in the streets at night, and I didn't know who to convey them to, which seemed extraordinarily lonely."
+        ],
         "image": [
             "Xiluo",
             0,
             4
+        ]
+    },
+    {
+        "name": [
+            "三民區",
+            "Sanmin Dist."
+        ],
+        "info": [
+            "所有來高雄的旅客對三民區絕對不陌生，因為火車、客運都匯集在那邊，現在還加上了輕軌。車站長年都在修繕，不知情的人還以為臨時的車站建築體，就是車站本身了。直到近期才得以期待新車站真的要快要完成了。從前周遭的地方發展，因為車站的緣故被分割得零零碎碎，現在舊鐵道的位置，都成了行人與自行車活動的綠地，附近的人又多了許多遛狗、帶小孩玩耍的空間。",
+            "All tourists who come to Kaohsiung are definitely familiar with Sanmin District, because trains and passenger transportation are all gathered there, and now light rail has been added. The station has been under repair for many years, and people who don't know it think that the temporary station building is the station itself. Until recently it was expected that the new station would really be nearing completion. In the past, the surrounding area was developed and fragmented because of the station. Now the old railway site has become a green space for pedestrians and bicycles. People nearby have more space to walk their dogs and bring their children to play."
+        ],
+        "image": [
+            "Sanmin",
+            0,
+            1
+        ]
+    },
+    {
+        "name": [
+            "美濃區",
+            "Meinong Dist."
+        ],
+        "info": [
+            "美濃是南部主要的客家聚落之一，被青山與田園圍繞，田園風光的景色相當秀麗，客家人對於土地的深刻情感，體現在保護家園的自然生態上。在這裡人與自然共生共存，可以近距離地親近蝴蝶、鳥類等自然生態。其中的農村景觀與文化，也吸引許多外地人前來體驗，如採番茄、拔蘿蔔等等的活動。",
+            "Meinong is one of the main Hakka settlements in the south. It is surrounded by green hills and countryside. The rural scenery is quite beautiful. The Hakka people's deep affection for the land is reflected in the protection of the natural ecology of their homes. Here, people and nature coexist, and you can get close to the natural ecology such as butterflies and birds. The rural landscape and culture also attract many outsiders to experience such activities as picking tomatoes and pulling radishes."
+        ],
+        "image": [
+            "Meinong",
+            0,
+            1
+        ]
+    },
+    {
+        "name": [
+            "鹽埕區",
+            "Yancheng Dist."
+        ],
+        "info": [
+            "與市區其他充斥著高樓大廈的商業區域相比，鹽埕的景觀顯得樸拙多了，這樣的景觀中很難想像這裡曾經是高雄最熱鬧的地區。但從部份的建築、房舍樣式還可以看出一些這樣的軌跡。鹽埕可以說代表著高雄所具有的魅力，古早味的美食、浪漫的河岸、氣派的港口，都吸引著許多本地人與外地人。碼頭沿岸從前是商業貿易重要的位置，現在則轉換成了觀光產業重要的據點。",
+            "Compared with other commercial areas full of high-rise buildings in the urban area, the landscape of Yancheng is much more simple. It is hard to imagine that this was once the busiest area in Kaohsiung. However, some such trajectories can be seen from the styles of some buildings and houses. Yancheng can be said to represent the charm of Kaohsiung. The ancient food, romantic riverside, and magnificent port all attract many locals and foreigners. The coast of the wharf used to be an important location for commercial trade, but now it has been transformed into an important base for the tourism industry."
+        ],
+        "image": [
+            "Yancheng",
+            0,
+            1
+        ]
+    },
+    {
+        "name": [
+            "安平區",
+            "Anping Dist."
+        ],
+        "info": [
+            "如果想要親眼看看時光走過的軌跡，那來到台南、踏入安平肯定會讓你收穫良多。左為全台灣歷史記載最早的區域，至今還留下了大量的古蹟、老厝，街道與巷弄的景觀，儘管融入了許多現代的建設，但仍然掩蓋不住充滿歷史感的模樣，在新與舊的事物之間尋找平衡點。",
+            "If you want to see the trajectory of time with your own eyes, then coming to Tainan and stepping into Anping will definitely give you a lot of rewards. On the left is the area with the earliest historical records in Taiwan. There are still a large number of historical sites, old houses, streets and alleys. Although many modern constructions have been incorporated, it still cannot hide the appearance full of history. In the new Find a balance with old things."
+        ],
+        "image": [
+            "Anping",
+            0,
+            2
+        ]
+    },
+    {
+        "name": [
+            "文山區",
+            "Wenshan Dist."
+        ],
+        "info": [
+            "由於地形的緣故，在這一區的範圍內移動，總是需要爬上爬下的，不斷地走樓梯。儘管疲勞但或許也可以因此鍛鍊出好體力。但如果是老人家可能就會比較辛苦了。地處山區，聚落的發展被丘陵環繞，因此有許多觀光休閒的建設與產業在這裡發展，地方的景觀在綠色的背景之中刻畫著許多活潑的表現。",
+            "Due to the terrain, moving within the scope of this area always requires climbing up and down, constantly taking the stairs. Although tired, it may also be able to exercise good physical strength. But if you are an elderly person, it may be more difficult. Located in a mountainous area, the development of the settlement is surrounded by hills, so there are many tourism and leisure constructions and industries developing here, and the local landscape depicts many lively expressions in the green background."
+        ],
+        "image": [
+            "Wenshan",
+            0,
+            1
         ]
     }
 ]

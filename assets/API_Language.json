@@ -1,0 +1,63 @@
+[
+    {
+        "zhTW": {
+            "title": [
+                "首頁",
+                "色譜地圖",
+                "過往紀錄",
+                "計畫背景",
+                "製作方式",
+                "最新動態",
+                "製作團隊",
+                "EN"
+            ],
+            "info": [
+                "我們如何看待周遭的風景？如何想像生活的景觀？<br><br>「景觀色譜」嘗試將視覺與色彩的感知延伸到聲音的想像上，結合視覺與聽覺感受街道與地景。<br><br>拍攝社區與地方的影像，透過程式分析將景觀轉化成色彩與音樂，以生動的方式體驗與探索環境背後的情感。",
+                "",
+                "",
+                "基於環境感官的探索與地方的關懷，藝術家吳修銘的創作一直把生活周遭的景觀當作題材，找尋一種可以感受地方的溫度與情感的方法。<br><br>「景觀色譜計畫」是一項長期創作的項目，始於2018年開始陸續在幾個偏鄉小鎮踏查，包括了無力保存的眷村、衰頹的舊商圈、人口外流的小鎮。<br><br>期望以一個新的感知角度來閱讀基地舊有的脈絡，在他的眼裡風景不只是視覺景觀，生活的每個角落都可能是別具意義的場所，都像是一首音樂可以仔細聆聽與品味。",
+                "拍攝與記錄各地的環境景觀與地方影像，將影像載入程式當中，透過程式擷取並分析影像的色彩資料參數，參考色彩心理學與和聲學理論將影像的色彩參數設定成生成式的音樂結構。<br><br>因此街道影像將即時轉譯成音訊資料被程式演奏出來，每個風景都成了一段曲子。並結合地方與生活經驗的書寫，陳述該地方的歷史與生活情境。",
+                "你也想要觀察自己的家鄉與社區，參與景觀色譜的製作嗎？<br><br>我們會將最近的工作坊與講座等活動資訊分享在這邊。",
+                "計劃主持｜吳修銘<br><br>設計顧問｜黃法誠<br><br>視覺設計｜曾馨慧<br><br>網頁設計｜薛英鵬<br><br>空拍攝影｜黃川碩<br><br>合作夥伴｜文化部、岡山眷村文化協會、台北當代藝術館、雲林故事館、月之美術館、台南市立美術館、高雄市立美術館、國立台灣美術館、新富町文化市場、明日製作所、台灣虛實展演協會",
+                ""
+            ]
+        },
+        "enUS": {
+            "title": [
+                "Index",
+                "Spectrum Map",
+                "Past Records",
+                "Project Background",
+                "Method of Production",
+                "News",
+                "Production Team",
+                "中"
+            ],
+            "info": [
+                "How do we perceive the landscape around us? How to imagine the landscape of life?<br>\"Surround Spectrum\" tries to extend the perception of vision and color to the imagination of sound, combining vision and hearing to experience streets and landscapes.<br><br>take images of communities and places, transform the landscape into color and music through procedural analysis, so we could experience and explore the emotions behind the environment in a vivid way.",
+                "",
+                "",
+                "Based on the exploration of environmental senses and local care, artist Wu Siou Ming has always used the landscape around his life as the subject matter in his creations, looking for a way to feel the temperature and emotion of the place.<br><br>The \"Landscape Chromatography\" is a long-term creative project. It started in 2018 and has successively visited several remote towns, including military families villages that cannot be preserved, old business districts in decline, and old small towns with population outflows.<br><br>He looking forward to reading the old context of the base from a new perspective of perception. In his eyes, the scenery is not just a visual landscape. Every corner of life may be a place of special significance. It is like a piece of music that can be listened to carefully.",
+                "Our team take and record environmental landscapes and local images of various places, load the images into the custom program, capture and analyze the color data parameters of the images through the program, and set the color parameters of the images into a generative music structure by referring to color psychology and harmonic theory.<br><br>Therefore, the street images will be translated into digital audio data in real time and played by the program, and each scene becomes a piece of music. Combined with the writing of the place and life experience, talk about the history and life situation of the place.",
+                "Do you also want to observe your hometown and community and participate in the production of landscape color spectrum?<br><br>We will share information about recent workshops, lectures and other activities here.",
+                "Project Host｜Wu Siou Ming <br><br>Design Consultant｜Huang Fa Cheng <br><br>Visual Design｜Zeng Sing Huei <br><br>Web Design｜Hsueh Ying Peng <br><br>Aerial shooting｜Cshiuo <br><br>Partners｜Ministry of Culture, Ganshan Military Dependent's Village, Museum of Contemporary Art Taipei, Yunlin Story House, YueJin Art Museum, Tainan Art Museum, Kaohsiung Museum of Fine Arts, National Taiwan Museum of Fine Arts, Shintomicho Cultural Market, Atelier A Better Tomorrow, Virtual and Physical Media Integration Association of Taiwan",
+                ""
+            ]
+        }
+    },
+    {
+        "link": [
+            "https://www.moc.gov.tw/",
+            "https://www.facebook.com/1008668395868443/",
+            "https://www.mocataipei.org.tw/",
+            "https://ylstoryhouse.org.tw/",
+            "https://yuejinartmuseum.tainan.gov.tw/",
+            "https://www.tnam.museum/",
+            "https://www.kmfa.gov.tw/",
+            "https://www.ntmofa.gov.tw/",
+            "http://umkt.jutfoundation.org.tw/",
+            "https://www.facebook.com/aabt.creative/",
+            "https://vpat.metatale.com/"
+        ]
+    }
+]

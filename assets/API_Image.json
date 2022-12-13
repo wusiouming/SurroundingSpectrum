@@ -1,0 +1,57 @@
+[
+    {
+        "name": [
+            "樂群村",
+            "Liqun Village"
+        ],
+        "image": [
+            "Liqun",
+            0,
+            5
+        ]
+    },
+    {
+        "name": [
+            "華陰街",
+            "Yuayin St."
+        ],
+        "image": [
+            "Yuayin",
+            1,
+            13
+        ]
+    },
+    {
+        "name": [
+            "新富町文化市場",
+            "Xinfu Market"
+        ],
+        "image": [
+            "Wanhua",
+            0,
+            4
+        ]
+    },
+    {
+        "name": [
+            "鹽水區",
+            "Yanshuei Dist."
+        ],
+        "image": [
+            "Yanshuei",
+            1,
+            4
+        ]
+    },
+    {
+        "name": [
+            "西螺鎮",
+            "Xiluo Township"
+        ],
+        "image": [
+            "Xiluo",
+            0,
+            4
+        ]
+    }
+]
